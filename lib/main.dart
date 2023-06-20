@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     color: Colors.green,
+    home: Container(),
   ));
 }
 //
